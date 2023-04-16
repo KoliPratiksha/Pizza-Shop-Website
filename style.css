@@ -10,4 +10,27 @@
     .middle .btn{
         display: none;
     }
+    .card{
+        margin-top: 2rem;
+    }
+    .text1{
+        padding-top: 2rem;
+    }
+    .fx1{
+        padding-left: 3rem;
+        padding-top: 2rem; 
+    }
+    .fx{
+        padding-left: 3rem;
+        padding-top: 2rem;
+    }
+    .text3{
+        padding-left: 5rem;
+    }
+    .p1{
+        padding-left: 3rem;
+    }
+    .tx1{
+        padding-left: 3rem;
+    }
 }
